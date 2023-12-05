@@ -1,8 +1,8 @@
 " VIM Configuration Profile
 set nocompatible    " use vim, not vi api
 
-" Use the PowerLine plugin. Change Python directory if needed.
-set rtp+=$HOME/.local/lib/python3.11/site-packages/powerline/bindings/vim/
+" Use the PowerLine plugin. Change Python directory if needed (/lib/python3.*).
+set rtp+=$HOME/.local/lib/python3.10/site-packages/powerline/bindings/vim/
 
 
 " Use 256 colours (Use this setting only if your terminal supports 256 colours)

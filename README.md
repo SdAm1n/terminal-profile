@@ -1,12 +1,14 @@
 # Terminal Profile & Config Files
 
-My terminal profile setup for Arch Linux & Ubuntu.
+My terminal profile setup for Arch Linux & Ubuntu. This is a modified version of [Pixegami Terminal Profile](https://github.com/pixegami/terminal-profile/tree/main).
+
 
 ## Modifications
 
-- Made it work with Arch Linux & Ubuntu.
-- Changed the scripts somewhat.
+- Made it work with Arch Linux & Ubuntu. It can detect Ubuntu and Arch Linux.
 - Customized vimrc, zshrc.
+- Added Fira Code Nerd Font
+- Changed Overall Scripts
 
 ## Prerequisites
 
@@ -31,4 +33,3 @@ Execute the scripts in the following order:
 
 You may need to logout and login again for the changes to take effect.
 This will only work with Arch Linux & Ubuntu. If you want to use it with other distros, you will have to modify the scripts.
-Idea: [Pixegami Terminal Profile](https://github.com/pixegami/terminal-profile/tree/main)

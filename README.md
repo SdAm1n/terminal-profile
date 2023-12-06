@@ -9,14 +9,15 @@ My terminal profile setup for Arch Linux & Ubuntu. This is a modified version of
 - Customized vimrc, zshrc.
 - Added Fira Code Nerd Font
 - Changed Overall Scripts
+- Added Icons [lsd](https://github.com/lsd-rs/lsd)
 
 ## Prerequisites
 
 ```bash
 # for Arch Linux
-sudo pacman -Syyu git vim
+sudo pacman -Syyu git vim lsd
 # for Ubuntu
-sudo apt update && sudo apt upgrade -y && sudo apt install -y git vim
+sudo apt update && sudo apt upgrade -y && sudo apt install -y git vim lsd
 ```
 
 ## Installation

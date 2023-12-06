@@ -1,6 +1,6 @@
 # Terminal Profile & Config Files
 
-Modified [Pixegami Terminal Profile](https://github.com/pixegami/terminal-profile/tree/main) for Arch Linux & Ubuntu.
+My terminal profile setup for Arch Linux & Ubuntu.
 
 ## Modifications
 
@@ -31,3 +31,4 @@ Execute the scripts in the following order:
 
 You may need to logout and login again for the changes to take effect.
 This will only work with Arch Linux & Ubuntu. If you want to use it with other distros, you will have to modify the scripts.
+Idea: [Pixegami Terminal Profile](https://github.com/pixegami/terminal-profile/tree/main)

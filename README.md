@@ -8,8 +8,8 @@ My terminal profile setup for Arch Linux & Ubuntu. This is a modified version of
 - Made it work with Arch Linux & Ubuntu. It can detect Ubuntu and Arch Linux.
 - Customized vimrc, zshrc.
 - Added Fira Code Nerd Font
+- Added Icons ([lsd](https://github.com/lsd-rs/lsd))
 - Changed Overall Scripts
-- Added Icons [lsd](https://github.com/lsd-rs/lsd)
 
 ## Prerequisites
 
